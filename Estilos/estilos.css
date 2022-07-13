@@ -171,18 +171,6 @@
     transition: 0.1s;
 }
 
-.galeria-item-1:hover,
-.galeria-item-2:hover,
-.galeria-item-3:hover,
-.galeria-item-4:hover,
-.galeria-item-5:hover{
-    transform: scale(1.05);
-    transform: scale(1.05);
-    transform: scale(1.05);
-    transform: scale(1.05);
-    transform: scale(1.05);
-}
-
 .galeria-item-2{
     grid-column-start: 3;
     grid-column-end: 5;
@@ -875,7 +863,7 @@ footer #legal{
 
 .header-titular-juegos{
     height: 60px;
-    background-image: linear-gradient(to right, #DD2431, #7C4397);
+    background-color: #D63C3C;
     padding: 0 10px;
     color: #f2f2f2;
     display: flex;
