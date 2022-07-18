@@ -169,7 +169,7 @@
     grid-row-start: 1;
     grid-row-end: 3;
     position: relative;
-    transition: 0.1s;
+    transition: 0.3s;
 }
 
 .galeria-item-1:hover,
@@ -190,7 +190,7 @@
     grid-row-start: 1;
     grid-row-end: 2;
     position: relative;
-    transition: 0.1s;
+    transition: 0.3s;
 }
 
 .galeria-item-3{
@@ -199,7 +199,7 @@
     grid-row-start: 2;
     grid-row-end: 3;
     position: relative;
-    transition: 0.1s;
+    transition: 0.3s;
 }
 
 .galeria-item-4{
@@ -208,7 +208,7 @@
     grid-row-start: -3;
     grid-row-end: -2;
     position: relative;
-    transition: 0.1s;
+    transition: 0.3s;
 }
 
 .galeria-item-5{
@@ -217,7 +217,7 @@
     grid-row-start: -2;
     grid-row-end: -1;
     position: relative;
-    transition: 0.1s;
+    transition: 0.3s;
 }
 
 .galeria-texto{
