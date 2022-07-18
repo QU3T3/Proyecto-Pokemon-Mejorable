@@ -97,6 +97,7 @@
 .menu-mostrar:hover,
 .menu-esconder:hover{
     color: #222222;
+    text-decoration: none;
 }
 
 #check{
@@ -169,6 +170,18 @@
     grid-row-end: 3;
     position: relative;
     transition: 0.1s;
+}
+
+.galeria-item-1:hover,
+.galeria-item-2:hover,
+.galeria-item-3:hover,
+.galeria-item-4:hover,
+.galeria-item-5:hover{
+    transform: scale(1.05);
+    transform: scale(1.05);
+    transform: scale(1.05);
+    transform: scale(1.05);
+    transform: scale(1.05);
 }
 
 .galeria-item-2{
@@ -863,7 +876,7 @@ footer #legal{
 
 .header-titular-juegos{
     height: 60px;
-    background-color: #D63C3C;
+    background-image: linear-gradient(to right, #DD2431, #7C4397);
     padding: 0 10px;
     color: #f2f2f2;
     display: flex;
