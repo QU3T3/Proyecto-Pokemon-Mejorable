@@ -295,6 +295,11 @@ footer #legal{
     color: #6A6A6A;
 }
 
+.grupo2 p{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
 .iniciar-sesion{
     height: 640px;
     width: 460px;
@@ -1968,8 +1973,8 @@ footer #legal{
 }
 
 .header-titular-juegos{
-    height: 60px;
-    background-image: linear-gradient(to right, #DD2431, #7C4397);
+    height: 80px;
+    background-image: linear-gradient(to right, #ea4338, #4e4298);
     padding: 0 10px;
     color: #f2f2f2;
     display: flex;
@@ -1978,63 +1983,119 @@ footer #legal{
 }
 
 .header-titular-juegos img{
-    width: 110px;
-    height: 50px;
+    width: 160px;
+    height: 70px;
 }
 
 .header-titular-juegos a{
     font-weight: bold;
-    font-size: 15px;
+    font-size: 20px;
     color: #f2f2f2;
 }
 
 .body-juegos{
-    background-image: url(../Imagenes/escamas.png);
+    background-image: url(/Imagenes/wallpaperjuegos.png);
     background-size: cover;
 }
 
-.juegos{
-    width: 100%;
-    height: 100%;
-}
-
-.juegos-info{
-    display: flex;
-    padding: 30px;
-    justify-content: center;
-}
-
-.juegos-video{
-    margin-right: 50px;
-}
-
-.juegos-video-info{
+.container-juegos{
     display: flex;
     justify-content: center;
+    flex-direction: row;
+    margin: 5em;
+    gap: 25em;
+}
+
+.container-juegos img{
+    width: 40%;
+    transition: 0.1s;
+}
+
+.container-juegos img:hover{
+    transform: scale(1.05);
+}
+
+.container-juegos-texto{
+    position: absolute;
+    display: flex;
     flex-direction: column;
-    width: 600px;
-    height: 320px;
-    background-color: rgba(242, 242, 242, .30);
-    border: 10px solid transparent;
+    align-items: center;
+}
+
+.container-juegos-texto span{
+    font-size: 40px;
+    text-align: center;
+    font-family:'Montserrat Black';
+    color: #222222;
+    margin-bottom: 11em;
+}
+
+.container-juegos-texto a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #ea4338;
+    font-weight: bold;
+    text-align: center;
+    border-style: solid;
+    background-color: #F2F2F2;
     border-radius: 30px;
-    border-image: linear-gradient(to right, #DD2431, #7C4397);
+    width: auto;
+    height: auto;
+    padding: 5px 30px 5px 30px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.7);
+}
+
+.container-juegos-texto a:hover{
+    transform: translateY(5px);
+}
+
+.container-info{
+    margin: auto;
+    margin-top: 14em;
+    padding: 5em;
+    background-color: white;
+    border: solid;
+    border-width: 10px;
     border-image-slice: 1;
+    border-image-source: linear-gradient(to right, #ea4338, #4e4298);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);;
+    height: 1200px;
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5em;
+    margin-bottom: 10em;
 }
 
-.juegos-video-info p{
-    font-size: 14px;
-    color: #f2f2f2;
-    font-family: 'Montserrat black';
-    text-align: center;
+.container-info span{
+    font-size: 25px;
+    font-weight: bold;
+    color: #222222;
+    border-radius: 40px;
+    border: solid;
+    padding: 20px;
+    border-width: 5px;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(to right, #ea4338, #4e4298);
 }
 
-.juegos-video-info span{
-    font-size: 14px;
-    color: #f2f2f2;
-    font-family: 'Montserrat black';
+.container-info-subtitulo{
+    font-family:'Montserrat Black';
+    font-size: 58px;
+    color: #222222;
+}
+
+.container-info iframe{
+    margin-top: 3em;
+}
+
+.container-info-parrafo{
+    margin-top: 3em;
+    font-size: 25px;
+    color: #222222;
     text-align: center;
-    
-    text-align: center;
+    font-weight: 500;
 }
 
 
