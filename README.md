@@ -8,4 +8,3 @@
   
   * Flexbox
   * Grid
-  * Boostrap
