@@ -12,7 +12,7 @@
         }
 
     body{
-        background-image: url(../Imagenes/background.jpg);
+        background-image: url(../imagenes/background.jpg);
         background-size: cover;
         background-repeat: no-repeat;
     }
@@ -1994,7 +1994,7 @@ footer #legal{
 }
 
 .body-juegos{
-    background-image: url(/Imagenes/wallpaperjuegos.png);
+    background-image: url(../imagenes/juegos/wallpaperjuegos.png);
     background-size: cover;
 }
 
