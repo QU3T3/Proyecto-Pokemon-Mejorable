@@ -1,0 +1,50 @@
+header{
+    .header-titular-juegos{
+        height: 80px;
+        background: $alternative;
+        padding: 0 10px;
+        color: $primary;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .header-login-juegos{
+        height: 30px;
+        background: $primary;
+        padding: 0 10px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .header-login-juegos h2{
+        font-family: 'Montserrat';
+        font-weight: 900;
+        color: $secondary;
+    }
+    .header-login-juegos a{
+        font-size: 15px;
+        font-family: 'Montserrat';
+        font-weight: 600;
+        text-decoration: none;
+        color: $secondary;
+    }
+    .header-titular-juegos{
+        height: 80px;
+        background: linear-gradient(to right, $gradient-primary, $gradient-secondary);
+        padding: 0 10px;
+        color: $primary;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .header-titular-juegos img{
+        width: 160px;
+        height: 70px;
+    }
+    .header-titular-juegos a{
+        font-family: 'Montserrat';
+        font-weight: 800;
+        font-size: 20px;
+        color: $primary;
+    }
+}

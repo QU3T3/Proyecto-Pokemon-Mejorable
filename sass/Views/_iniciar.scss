@@ -1,0 +1,76 @@
+.iniciar-sesion{
+    height: 640px;
+    width: 460px;
+    background: $alternative;
+    display: flex;
+    padding: 100px;
+    justify-content: space-around;
+    flex-direction: column;
+    padding: 40px;
+    margin: 50px auto;
+    border-radius: 20px;
+    box-shadow: 0 0 10px;
+}
+
+.iniciar-sesion h2{
+    font-family: 'Montserrat';
+    font-weight: 800;
+    text-align: center;
+    font-size: 45px;
+    color: $primary;
+}
+
+.iniciar-sesion h4{
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 25px;
+    color: $primary;
+}
+
+.iniciar-sesion p{
+    font-family: 'Montserrat';
+    font-weight: 200;
+    text-align: center;
+    font-size: 15px;
+    color: $primary;
+}
+
+.iniciar-sesion .control{
+    height: 40px;
+    width: 100%;
+    border-radius: 10px;
+    border-style: none;
+    background-color: $secondary;
+    color: $primary;
+    font-size: 20px;
+    padding: 0 10px;
+    outline: none;
+}
+
+.iniciar-sesion .boton{
+    width: 100%;
+    height: 50px;
+    color: $secondary;
+    background-color: $primary;
+    border-style: none;
+    border-radius: 5px;
+    font-size: 30px;
+    font-family: 'Montserrat';
+    font-weight: 800;
+    margin-bottom: 35px;
+}
+
+.iniciar-sesion span{
+    font-size: 20px;
+    color: $primary;
+    font-family: 'Montserrat';
+    font-weight: 300;
+    text-align: center;
+}
+
+.iniciar-sesion span a{
+    font-family: 'Montserrat';
+    font-weight: 800;
+    color: $secondary;
+    text-decoration: none;
+}

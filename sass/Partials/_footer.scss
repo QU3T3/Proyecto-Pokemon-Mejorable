@@ -1,0 +1,63 @@
+footer{
+    width: 100%;
+    position: relative;
+    bottom: 0;
+    padding: 2rem 8%;
+    background-color: $secondary;
+    color: $primary;
+    font-family: 'Montserrat';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    
+}
+
+footer h3{
+    font-family: 'Montserrat';
+    font-weight: 800;
+    margin-bottom: 1.5rem;
+    font-size: 20px;
+}
+
+
+footer ul li{
+    font-size: 16px;
+    list-style: none;
+    float: left;
+    margin: 30px;
+    margin-bottom: 3rem;
+    font-family: 'Montserrat';
+    font-weight: 300;
+}
+
+footer .redes{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+#face{
+    width: 35px;
+}
+#tw{
+    width: 35px;
+}
+#yt{
+    width: 35px;
+}
+
+footer #legal{
+    font-size: 14px;
+    color: $details;
+    font-family: 'Montserrat';
+    font-weight: 300;
+}
+
+footer span{
+    margin-top: 1.5em;
+    font-size: 14px;
+    color: $details;
+    font-family: 'Montserrat';
+    font-weight: 300;
+}
