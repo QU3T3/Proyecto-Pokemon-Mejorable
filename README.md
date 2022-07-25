@@ -4,8 +4,9 @@
 
 * HTML
 
+* SCSS
+
 * CSS
   
   * Flexbox
   * Grid
-  * SCSS
