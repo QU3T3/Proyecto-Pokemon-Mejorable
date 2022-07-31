@@ -351,7 +351,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-1 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -386,7 +388,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-2 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -421,7 +425,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-3 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -456,7 +462,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-4 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -491,7 +499,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-5 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -526,7 +536,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-6 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -561,7 +573,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-7 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -596,7 +610,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-8 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -631,7 +647,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-9 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -666,7 +684,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-10 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -701,7 +721,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-11 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -736,7 +758,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-12 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -771,7 +795,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-13 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -806,7 +832,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-14 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -841,7 +869,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-15 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -876,7 +906,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-16 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -911,7 +943,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-17 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -946,7 +980,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-18 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -981,7 +1017,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-19 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -1016,7 +1054,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-20 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -1051,7 +1091,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-21 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -1086,7 +1128,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-22 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -1121,7 +1165,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-23 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -1156,7 +1202,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-24 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -1191,7 +1239,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-25 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -1226,7 +1276,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-26 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -1261,7 +1313,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-27 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -1296,7 +1350,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-28 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -1331,7 +1387,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-29 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -1366,7 +1424,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-30 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -1401,7 +1461,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-31 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -1436,7 +1498,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-32 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -1471,7 +1535,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-33 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -1506,7 +1572,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-34 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -1541,7 +1609,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-35 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -1576,7 +1646,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-36 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -1611,7 +1683,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-37 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -1646,7 +1720,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-38 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -1681,7 +1757,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-39 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -1716,7 +1794,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-40 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -1751,7 +1831,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-41 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -1786,7 +1868,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-42 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -1821,7 +1905,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-43 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -1856,7 +1942,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-44 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -1891,7 +1979,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-45 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -1926,7 +2016,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-46 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -1961,7 +2053,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-47 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -1996,7 +2090,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-48 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -2031,7 +2127,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-49 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -2066,7 +2164,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-50 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -2101,7 +2201,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-51 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -2136,7 +2238,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-52 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -2171,7 +2275,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-53 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -2206,7 +2312,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-54 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -2241,7 +2349,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-55 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -2276,7 +2386,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-56 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -2311,7 +2423,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-57 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -2346,7 +2460,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-58 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -2381,7 +2497,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-59 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -2416,7 +2534,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-60 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -2451,7 +2571,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-61 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -2486,7 +2608,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-62 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -2521,7 +2645,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-63 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -2556,7 +2682,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-64 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -2591,7 +2719,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-65 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -2626,7 +2756,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-66 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -2661,7 +2793,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-67 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -2696,7 +2830,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-68 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -2731,7 +2867,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-69 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -2766,7 +2904,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-70 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -2801,7 +2941,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-71 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -2836,7 +2978,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-72 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -2871,7 +3015,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-73 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -2906,7 +3052,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-74 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -2941,7 +3089,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-75 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -2976,7 +3126,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-76 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -3011,7 +3163,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-77 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -3046,7 +3200,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-78 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -3081,7 +3237,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-79 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -3116,7 +3274,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-80 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -3151,7 +3311,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-81 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -3186,7 +3348,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-82 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -3221,7 +3385,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-83 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -3256,7 +3422,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-84 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -3291,7 +3459,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-85 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -3326,7 +3496,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-86 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -3361,7 +3533,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-87 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -3396,7 +3570,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-88 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -3431,7 +3607,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-89 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -3466,7 +3644,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-90 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -3501,7 +3681,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-91 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -3536,7 +3718,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-92 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -3571,7 +3755,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-93 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -3606,7 +3792,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-94 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -3641,7 +3829,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-95 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -3676,7 +3866,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-96 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -3711,7 +3903,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-97 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -3746,7 +3940,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-98 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -3781,7 +3977,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-99 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -3816,7 +4014,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-100 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -3851,7 +4051,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-101 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -3886,7 +4088,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-102 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -3921,7 +4125,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-103 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -3956,7 +4162,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-104 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -3991,7 +4199,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-105 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -4026,7 +4236,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-106 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -4061,7 +4273,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-107 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -4096,7 +4310,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-108 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -4131,7 +4347,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-109 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -4166,7 +4384,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-110 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -4201,7 +4421,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-111 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -4236,7 +4458,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-112 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -4271,7 +4495,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-113 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -4306,7 +4532,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-114 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -4341,7 +4569,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-115 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -4376,7 +4606,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-116 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -4411,7 +4643,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-117 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -4446,7 +4680,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-118 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -4481,7 +4717,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-119 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -4516,7 +4754,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-120 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -4551,7 +4791,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-121 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -4586,7 +4828,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-122 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -4621,7 +4865,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-123 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -4656,7 +4902,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-124 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -4691,7 +4939,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-125 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -4726,7 +4976,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-126 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -4761,7 +5013,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-127 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -4796,7 +5050,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-128 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -4831,7 +5087,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-129 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -4866,7 +5124,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-130 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -4901,7 +5161,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-131 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -4936,7 +5198,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-132 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -4971,7 +5235,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-133 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -5006,7 +5272,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-134 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -5041,7 +5309,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-135 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -5076,7 +5346,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-136 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -5111,7 +5383,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-137 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -5146,7 +5420,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-138 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -5181,7 +5457,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-139 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -5216,7 +5494,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-140 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -5251,7 +5531,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-141 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -5286,7 +5568,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-142 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -5321,7 +5605,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-143 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -5356,7 +5642,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-144 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -5391,7 +5679,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-145 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -5426,7 +5716,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-146 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -5461,7 +5753,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-147 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -5496,7 +5790,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-148 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -5531,7 +5827,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-149 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -5566,7 +5864,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-150 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -5601,7 +5901,9 @@ header .header-titular-juegos a {
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 0.1s;
+  cursor: pointer; }
 
 .pokemon-151 {
   background-color: rgba(255, 255, 255, 0.6);
@@ -5627,6 +5929,159 @@ header .header-titular-juegos a {
 .carta-info-151 h3 {
   margin: 15px 0 7px;
   letter-spacing: 1px; }
+
+.carta-1:hover,
+.carta-2:hover,
+.carta-3:hover,
+.carta-4:hover,
+.carta-5:hover,
+.carta-6:hover,
+.carta-7:hover,
+.carta-8:hover,
+.carta-9:hover,
+.carta-10:hover,
+.carta-11:hover,
+.carta-12:hover,
+.carta-13:hover,
+.carta-14:hover,
+.carta-15:hover,
+.carta-16:hover,
+.carta-17:hover,
+.carta-18:hover,
+.carta-19:hover,
+.carta-20:hover,
+.carta-21:hover,
+.carta-22:hover,
+.carta-23:hover,
+.carta-24:hover,
+.carta-25:hover,
+.carta-26:hover,
+.carta-27:hover,
+.carta-28:hover,
+.carta-29:hover,
+.carta-30:hover,
+.carta-31:hover,
+.carta-32:hover,
+.carta-33:hover,
+.carta-34:hover,
+.carta-35:hover,
+.carta-36:hover,
+.carta-37:hover,
+.carta-38:hover,
+.carta-39:hover,
+.carta-40:hover,
+.carta-41:hover,
+.carta-42:hover,
+.carta-43:hover,
+.carta-44:hover,
+.carta-45:hover,
+.carta-46:hover,
+.carta-47:hover,
+.carta-48:hover,
+.carta-49:hover,
+.carta-50:hover,
+.carta-51:hover,
+.carta-52:hover,
+.carta-53:hover,
+.carta-54:hover,
+.carta-55:hover,
+.carta-56:hover,
+.carta-57:hover,
+.carta-58:hover,
+.carta-59:hover,
+.carta-60:hover,
+.carta-61:hover,
+.carta-62:hover,
+.carta-63:hover,
+.carta-64:hover,
+.carta-65:hover,
+.carta-66:hover,
+.carta-67:hover,
+.carta-68:hover,
+.carta-69:hover,
+.carta-70:hover,
+.carta-71:hover,
+.carta-72:hover,
+.carta-73:hover,
+.carta-74:hover,
+.carta-75:hover,
+.carta-76:hover,
+.carta-77:hover,
+.carta-78:hover,
+.carta-79:hover,
+.carta-80:hover,
+.carta-81:hover,
+.carta-82:hover,
+.carta-83:hover,
+.carta-84:hover,
+.carta-85:hover,
+.carta-86:hover,
+.carta-87:hover,
+.carta-88:hover,
+.carta-89:hover,
+.carta-90:hover,
+.carta-91:hover,
+.carta-92:hover,
+.carta-93:hover,
+.carta-94:hover,
+.carta-95:hover,
+.carta-96:hover,
+.carta-97:hover,
+.carta-98:hover,
+.carta-99:hover,
+.carta-100:hover,
+.carta-101:hover,
+.carta-102:hover,
+.carta-103:hover,
+.carta-104:hover,
+.carta-105:hover,
+.carta-106:hover,
+.carta-107:hover,
+.carta-108:hover,
+.carta-109:hover,
+.carta-110:hover,
+.carta-111:hover,
+.carta-112:hover,
+.carta-113:hover,
+.carta-114:hover,
+.carta-115:hover,
+.carta-116:hover,
+.carta-117:hover,
+.carta-118:hover,
+.carta-119:hover,
+.carta-120:hover,
+.carta-121:hover,
+.carta-122:hover,
+.carta-123:hover,
+.carta-124:hover,
+.carta-125:hover,
+.carta-126:hover,
+.carta-127:hover,
+.carta-128:hover,
+.carta-129:hover,
+.carta-130:hover,
+.carta-131:hover,
+.carta-132:hover,
+.carta-133:hover,
+.carta-134:hover,
+.carta-135:hover,
+.carta-136:hover,
+.carta-137:hover,
+.carta-138:hover,
+.carta-139:hover,
+.carta-140:hover,
+.carta-141:hover,
+.carta-142:hover,
+.carta-143:hover,
+.carta-144:hover,
+.carta-145:hover,
+.carta-146:hover,
+.carta-147:hover,
+.carta-148:hover,
+.carta-149:hover,
+.carta-150:hover,
+.carta-151:hover {
+  transform: translateY(-10px); }
 
 .container-juegos {
   display: flex;
