@@ -11,32 +11,41 @@ footer{
     align-items: center;
     flex-direction: column;
     text-align: center;
-    
+    & h3{
+        font-family: 'Montserrat';
+        font-weight: 800;
+        margin-bottom: 1.5rem;
+        font-size: 20px;
+    }
+    & ul li{
+        font-size: 16px;
+        list-style: none;
+        float: left;
+        margin: 30px;
+        margin-bottom: 3rem;
+        font-family: 'Montserrat';
+        font-weight: 300;
+    }
+    & .redes{
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+    }
+    & #legal{
+        font-size: 14px;
+        color: $details;
+        font-family: 'Montserrat';
+        font-weight: 300;
+    }
+    & span{
+        margin-top: 1.5em;
+        font-size: 14px;
+        color: $details;
+        font-family: 'Montserrat';
+        font-weight: 300;
+    }
 }
 
-footer h3{
-    font-family: 'Montserrat';
-    font-weight: 800;
-    margin-bottom: 1.5rem;
-    font-size: 20px;
-}
-
-
-footer ul li{
-    font-size: 16px;
-    list-style: none;
-    float: left;
-    margin: 30px;
-    margin-bottom: 3rem;
-    font-family: 'Montserrat';
-    font-weight: 300;
-}
-
-footer .redes{
-    display: flex;
-    justify-content: center;
-    gap: 10px;
-}
 #face{
     width: 35px;
     border: solid $primary;
@@ -48,19 +57,4 @@ footer .redes{
 }
 #yt{
     @extend #face;
-}
-
-footer #legal{
-    font-size: 14px;
-    color: $details;
-    font-family: 'Montserrat';
-    font-weight: 300;
-}
-
-footer span{
-    margin-top: 1.5em;
-    font-size: 14px;
-    color: $details;
-    font-family: 'Montserrat';
-    font-weight: 300;
 }
