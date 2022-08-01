@@ -1,38 +1,38 @@
-header{
-    .header-login{
+.header-login{
         height: 30px;
         background: $primary;
         padding: 0 10px;
         display: flex;
         justify-content: space-between;
         align-items: center;
-    }
-    .header-login h2{
-        font-family: 'Montserrat black';
-        color: $secondary;
-        font-size: 15px;
-    }
-    .header-login a{
-        font-size: 15px;
-        font-family: 'Montserrat';
-        font-weight: 600;
-        color: $secondary;
+        & h2{
+            font-family: 'Montserrat black';
+            color: map-get($map: $header-color, $key: 'secondary' );
+            font-size: 15px;
+        }
+        & a{
+            font-size: 15px;
+            font-family: 'Montserrat';
+            font-weight: 600;
+            color: map-get($map: $header-color, $key: 'secondary' );
+        }
     }
     .header-titular{
         height: 80px;
         background: $alternative;
         padding: 0 10px;
-        color: $primary;
+        color: map-get($map: $header-color, $key: 'primary' );
         display: flex;
         justify-content: space-between;
         align-items: center;
+        & img{
+            width: 130px;
+            height: 50px;
+        }
     }
-    .header-titular img{
-        width: 130px;
-        height: 50px;
-    }
+    
     .menu a{
-        color: $primary;
+        color: map-get($map: $header-color, $key: 'primary' );
         text-transform: uppercase;
         padding: 0 40px;
         font-size: 15px;
@@ -50,7 +50,7 @@ header{
         font-weight: 500;
         border-style: none;
         transform: translateX(-100px);
-        color: $secondary;
+        color: map-get($map: $header-color, $key: 'secondary' );
         outline: none;
     }
     .menu-mostrar,
@@ -66,10 +66,9 @@ header{
     .menu a:hover,
     .menu-mostrar:hover,
     .menu-esconder:hover{
-        color: $secondary;
+        color: map-get($map: $header-color, $key: 'secondary' );
         text-decoration: none;
     }
     #check{
         display: none;
     }
-}

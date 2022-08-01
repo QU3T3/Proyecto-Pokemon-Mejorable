@@ -39,12 +39,15 @@ footer .redes{
 }
 #face{
     width: 35px;
+    border: solid $primary;
+    border-width: 1.5px;
+    border-radius: 20px;
 }
 #tw{
-    width: 35px;
+    @extend #face;
 }
 #yt{
-    width: 35px;
+    @extend #face;
 }
 
 footer #legal{
