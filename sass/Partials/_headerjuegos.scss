@@ -21,20 +21,42 @@
 
 .header-titular-juegos{
     height: 80px;
-    background: linear-gradient(to right, $gradient-primary, $gradient-secondary);
-    padding: 0 10px;
+    background-image: url(/assets/imagenes/juegos/wallpaperjuegosheader.png);
     color: $primary;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
+    gap: 20em;
     & img{
-        width: 160px;
+        width: auto;
         height: 70px;
     }
-    & a{
-        font-family: 'Montserrat';
-        font-weight: 800;
-        font-size: 20px;
-        color: $primary;
-    }
+}
+
+.header-links a{
+    color: map-get($map: $header-color, $key: 'primary' );
+    text-transform: uppercase;
+    padding: 0 40px;
+    font-size: 15px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+}
+
+.header-links a:hover{
+    border-bottom: solid $primary;
+    border-width: 2px;
+}
+
+.header-links-juegos a{
+    color: map-get($map: $header-color, $key: 'primary' );
+    text-transform: uppercase;
+    padding: 0 40px;
+    font-size: 15px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+}
+
+.header-links-juegos a:hover{
+    border-bottom: solid $primary;
+    border-width: 2px;
 }

@@ -45,51 +45,187 @@
     }
 }
 
+.container-region{
+    background-image: url(/assets/imagenes/juegos/paldeablur.png);
+    background-size: cover;
+    width: 100%;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: solid $borde;
+    border-bottom: solid $borde;
+    border-width: 5px;
+    gap: 40em;
+    box-shadow: inset 0 0 15px 5px rgba(0, 0, 0, 0.5);
+    & img{
+        width: 630px;
+        height: 445px;
+        border: solid $primary;
+        border-width: 5px;
+        box-shadow: 0 10px 10px rgba(0, 0, 0, 0.5);
+    }
+    &-info{
+        background-color: rgba(255, 255, 255, .75);
+        width: 445px;
+        height: 445px;
+        font-family: 'Montserrat';
+        font-weight: 700;
+        color: $primary;
+        font-size: 17px;
+        text-align: center;
+        color: $secondary;
+        border: solid $borde;
+        border-width: 5px;
+        box-shadow: 0 10px 10px rgba(0, 0, 0, 0.5);
+        & p{
+            margin: 2.3em 0;
+        }
+    }
+}
+
+.container-fecha{
+    text-align: center;
+    margin-top: 1em;
+    font-size: 50px;
+    font-family:'Montserrat';
+    font-weight: 900;
+    color: $secondary;
+    padding: 20px;
+}
+
 .container-info{
     margin: auto;
-    margin-top: 14em;
+    margin-top: 5em;
     padding: 5em;
     background-color: $primary;
-    border: solid;
-    border-width: 10px;
-    border-image-slice: 1;
-    border-image-source: linear-gradient(to right, $gradient-primary, $gradient-secondary);
+    border: solid $borde;
+    border-width: 5px;
+    border-radius: 15px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);;
-    height: 1200px;
-    width: 1000px;
+    height: 500px;
+    width: 1700px;
     display: flex;
-    flex-direction: column;
-    align-items: center;
     gap: 5em;
-    margin-bottom: 10em;
-    &-subtitulo{
-        font-family:'Montserrat';
-        font-weight: 900;
-        font-size: 58px;
-        color: $secondary;
-    }
+    margin-bottom: 15em;
     &-parrafo{
-        margin-top: 3em;
-        font-size: 25px;
+        font-size: 20px;
         font-family:'Montserrat';
         font-weight: 600;
         color: $secondary;
         text-align: center;
-    }
-    & span{
-        font-size: 25px;
-        font-family:'Montserrat';
-        font-weight: 800;
-        font-weight: bold;
-        color: $secondary;
-        border-radius: 40px;
-        border: solid;
-        padding: 20px;
-        border-width: 5px;
-        border-image-slice: 1;
-        border-image-source: linear-gradient(to right, $gradient-primary, $gradient-secondary);
+        justify-self: baseline;
+        margin-top: 1.5em;
     }
     & iframe{
-        margin-top: 3em;
+        width: 2490px;
+        height: 350px;
+        border-radius: 15px;
+        border: solid $borde;
+        border-width: 3px;
+        align-self: center;
     }
+}
+
+.container-aside{
+    display: flex;
+    flex-direction: column;
+    gap: 5em;
+}
+
+.container-pokemon{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20em;
+    gap: 8em;
+    &-inicial{
+        width: 20%;
+        transition: 0.2s;
+        display: flex;
+        flex-direction: column;
+        margin-top: 1.5em;
+        & h3{
+            text-align: center;
+            margin-top: 1em;
+            font-family: 'Montserrat';
+            font-weight: 700;
+            font-size: 15px;
+        }
+    }
+    &-inicial:hover{
+        transform: scale(1.1);
+    }
+}
+
+.container-profes{
+    width: 100%;
+    height: 800px;
+    display: flex;
+    margin-bottom: 10em;
+    &-img{
+        display: flex;
+        margin: 0 10em;
+        &-1{
+            margin-top: 4.5em;
+            width: 90%;
+            height: 90%;
+            transition: 0.2s;
+        }
+        &-1:hover{
+            transform: scale(1.1);
+        }
+        &-2{
+            width: 95%;
+            height: 95%;
+            transition: 0.2s;
+        }
+        &-2:hover{
+            transform: scale(1.1);
+        }
+    }
+    &-info{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 500px;
+        height: 700px;
+        margin: auto;
+        margin-top: 5em;
+        padding: 5em;
+        background-color: $primary;
+        border: solid $borde;
+        border-width: 5px;
+        border-radius: 15px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);;
+    }
+    &-info img{
+        border-radius: 15px;
+        border: solid $borde;
+        border-width: 3px;
+    }
+    &-info p{
+        font-size: 20px;
+        font-family:'Montserrat';
+        font-weight: 600;
+        color: $secondary;
+        text-align: center;
+        justify-self: baseline;
+        margin-top: 3.5em;
+    }
+}
+
+.container-profes-boton{
+    margin-top: 5em;
+    justify-content: center;
+    border: solid $borde;
+    border-radius: 20px;
+    width: 300px;
+    height: 100px;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);;
 }
