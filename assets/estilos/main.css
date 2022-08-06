@@ -2366,7 +2366,7 @@ ul {
     transform: translateY(5px); }
 
 .container-region {
-  background-image: url(../assets/imagenes/juegos/paldeablur.png);
+  background-image: url("/assets/imagenes/juegos/paldeablur.png");
   background-size: cover;
   width: 100%;
   height: 800px;
