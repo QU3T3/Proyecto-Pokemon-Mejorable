@@ -1,0 +1,13 @@
+@import './misc/_variables.scss';
+@import './misc/_normalize.scss';
+@import './misc/mixins';
+
+@import './partials/_header.scss';
+@import './partials/_headerjuegos.scss';
+@import './views/_iniciar.scss';
+@import './views/_gallery.scss';
+@import './views/_dex.scss';
+@import './views/_cards.scss';
+@import './views/_juegos.scss';
+
+@import './partials/_footer.scss';

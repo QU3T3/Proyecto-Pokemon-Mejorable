@@ -1,0 +1,787 @@
+.contenedor-cartas{
+    @include flex-cards;
+}
+
+.pokemon{
+    background-color: rgba(255, 255, 255, 0.6);
+    border-radius: 50%;
+    width: 320px;
+    height: 320px;
+    text-align: center;
+    & img{
+        max-width: 90%;
+        margin-top: 20px;
+    }
+}
+.carta-info{
+    margin-top: 20px;
+    font-size: 18px;
+    &-info-numero{
+        background-color: rgba(0, 0, 0, 0.1);
+        padding: 5px 10px;
+        border-radius: 10px;
+        font-size: 0.8em;
+    }
+    &-info h3{
+        margin: 15px 0 7px;
+        letter-spacing: 1px;
+    }
+}
+
+.carta-1{
+    @include cards($planta);
+}
+
+.carta-2{
+    @include cards($planta);
+}
+
+.carta-3{
+    @include cards($planta);
+}
+
+.carta-4{
+    @include cards($fuego);
+}
+
+.carta-5{
+    @include cards($fuego);
+}
+
+.carta-6{
+    @include cards($fuego);
+}
+
+.carta-7{
+    @include cards($agua);
+}
+
+.carta-8{
+    @include cards($agua);
+}
+
+.carta-9{
+    @include cards($agua);
+}
+
+.carta-10{
+    @include cards($bicho);
+}
+
+.carta-11{
+    @include cards($bicho);
+}
+
+.carta-12{
+    @include cards($bicho);
+}
+
+.carta-13{
+    @include cards($bicho);
+}
+
+.carta-14{
+    @include cards($bicho);
+}
+
+.carta-15{
+    @include cards($bicho);
+}
+
+.carta-16{
+    @include cards($normal);
+}
+
+.carta-17{
+    @include cards($normal);
+}
+
+.carta-18{
+    @include cards($normal);
+}
+
+.carta-19{
+    @include cards($normal);
+}
+
+.carta-20{
+    @include cards($normal);
+}
+
+.carta-21{
+    @include cards($normal);
+}
+
+.carta-22{
+    @include cards($normal);
+}
+
+.carta-23{
+    @include cards($veneno);
+}
+
+.carta-24{
+    @include cards($veneno);
+}
+
+.carta-25{
+    @include cards($electrico);
+}
+
+.carta-26{
+    @include cards($electrico);
+}
+
+.carta-27{
+    @include cards($tierra);
+}
+
+.carta-28{
+    @include cards($tierra);
+}
+
+.carta-29{
+    @include cards($veneno);
+}
+
+.carta-30{
+    @include cards($veneno);
+}
+
+.carta-31{
+    @include cards($veneno);
+}
+
+.carta-32{
+    @include cards($veneno);
+}
+
+.carta-33{
+    @include cards($veneno);
+}
+
+.carta-34{
+    @include cards($veneno);
+}
+
+.carta-35{
+    @include cards($hada);
+}
+
+.carta-36{
+    @include cards($hada);
+}
+
+.carta-37{
+    @include cards($fuego);
+}
+
+.carta-38{
+    @include cards($fuego);
+}
+
+.carta-39{
+    @include cards($normal);
+}
+
+.carta-40{
+    @include cards($normal);
+}
+
+.carta-41{
+    @include cards($veneno);
+}
+
+.carta-42{
+    @include cards($veneno);
+}
+
+.carta-43{
+    @include cards($planta);
+}
+
+.carta-44{
+    @include cards($planta);
+}
+
+.carta-45{
+    @include cards($planta);
+}
+
+.carta-46{
+    @include cards($bicho);
+}
+
+.carta-47{
+    @include cards($bicho);
+}
+
+.carta-48{
+    @include cards($bicho);
+}
+
+.carta-49{
+    @include cards($bicho);
+}
+
+.carta-50{
+    @include cards($tierra);
+}
+
+.carta-51{
+    @include cards($tierra);
+}
+
+.carta-52{
+    @include cards($normal);
+}
+
+.carta-53{
+    @include cards($normal);
+}
+
+.carta-54{
+    @include cards($agua);
+}
+
+.carta-55{
+    @include cards($agua);
+}
+
+.carta-56{
+    @include cards($lucha);
+}
+
+.carta-57{
+    @include cards($lucha);
+}
+
+.carta-58{
+    @include cards($fuego);
+}
+
+.carta-59{
+    @include cards($fuego);
+}
+
+.carta-60{
+    @include cards($agua);
+}
+
+.carta-61{
+    @include cards($agua);
+}
+
+.carta-62{
+    @include cards($agua);
+}
+
+.carta-63{
+    @include cards($psiquico);
+}
+
+.carta-64{
+    @include cards($psiquico);
+}
+
+.carta-65{
+    @include cards($psiquico);
+}
+
+.carta-66{
+    @include cards($lucha);
+}
+
+.carta-67{
+    @include cards($lucha);
+}
+
+.carta-68{
+    @include cards($lucha);
+}
+
+.carta-69{
+    @include cards($planta);
+}
+
+.carta-70{
+    @include cards($planta);
+}
+
+.carta-71{
+    @include cards($planta);
+}
+
+.carta-72{
+    @include cards($agua);
+}
+
+.carta-73{
+    @include cards($agua);
+}
+
+.carta-74{
+    @include cards($roca);
+}
+
+.carta-75{
+    @include cards($roca);
+}
+
+.carta-76{
+    @include cards($roca);
+}
+
+.carta-77{
+    @include cards($fuego);
+}
+
+.carta-78{
+    @include cards($fuego);
+}
+
+.carta-79{
+    @include cards($agua);
+}
+
+.carta-80{
+    @include cards($agua);
+}
+
+.carta-81{
+    @include cards($electrico);
+}
+
+.carta-82{
+    @include cards($electrico);
+}
+
+.carta-83{
+    @include cards($normal);
+}
+
+.carta-84{
+    @include cards($normal);
+}
+
+.carta-85{
+    @include cards($normal);
+}
+
+.carta-86{
+    @include cards($agua);
+}
+
+.carta-87{
+    @include cards($agua);
+}
+
+.carta-88{
+    @include cards($veneno);
+}
+
+.carta-89{
+    @include cards($veneno);
+}
+
+.carta-90{
+    @include cards($agua);
+}
+
+.carta-91{
+    @include cards($agua);
+}
+
+.carta-92{
+    @include cards($fantasma);
+}
+
+.carta-93{
+    @include cards($fantasma);
+}
+
+.carta-94{
+    @include cards($fantasma);
+}
+
+.carta-95{
+    @include cards($roca);
+}
+
+.carta-96{
+    @include cards($psiquico);
+}
+
+.carta-97{
+    @include cards($psiquico);
+}
+
+.carta-98{
+    @include cards($agua);
+}
+
+.carta-99{
+    @include cards($agua);
+}
+
+.carta-100{
+    @include cards($electrico);
+}
+
+.carta-101{
+    @include cards($electrico);
+}
+
+.carta-102{
+    @include cards($planta);
+}
+
+.carta-103{
+    @include cards($planta);
+}
+
+.carta-104{
+    @include cards($tierra);
+}
+
+.carta-105{
+    @include cards($tierra);
+}
+
+.carta-106{
+    @include cards($lucha);
+}
+
+.carta-107{
+    @include cards($lucha);
+}
+
+.carta-108{
+    @include cards($normal);
+}
+
+.carta-109{
+    @include cards($veneno);
+}
+
+.carta-110{
+    @include cards($veneno);
+}
+
+.carta-111{
+    @include cards($tierra);
+}
+
+.carta-112{
+    @include cards($tierra);
+}
+
+.carta-113{
+    @include cards($normal);
+}
+
+.carta-114{
+    @include cards($planta);
+}
+
+.carta-115{
+    @include cards($normal);
+}
+
+.carta-116{
+    @include cards($agua);
+}
+
+.carta-117{
+    @include cards($agua);
+}
+
+.carta-118{
+    @include cards($agua);
+}
+
+.carta-119{
+    @include cards($agua);
+}
+
+.carta-120{
+    @include cards($agua);
+}
+
+.carta-121{
+    @include cards($agua);
+}
+
+.carta-122{
+    @include cards($psiquico);
+}
+
+.carta-123{
+    @include cards($bicho);
+}
+
+.carta-124{
+    @include cards($hielo);
+}
+
+.carta-125{
+    @include cards($electrico);
+}
+
+.carta-126{
+    @include cards($fuego);
+}
+
+.carta-127{
+    @include cards($bicho);
+}
+
+.carta-128{
+    @include cards($normal);
+}
+
+.carta-129{
+    @include cards($agua);
+}
+
+.carta-130{
+    @include cards($agua);
+}
+
+.carta-131{
+    @include cards($agua);
+}
+
+.carta-132{
+    @include cards($normal);
+}
+
+.carta-133{
+    @include cards($normal);
+}
+
+.carta-134{
+    @include cards($agua);
+}
+
+.carta-135{
+    @include cards($electrico);
+}
+
+.carta-136{
+    @include cards($fuego);
+}
+
+.carta-137{
+    @include cards($normal);
+}
+
+.carta-138{
+    @include cards($roca);
+}
+
+.carta-139{
+    @include cards($roca);
+}
+
+.carta-140{
+    @include cards($roca);
+}
+
+.carta-141{
+    @include cards($roca);
+}
+
+.carta-142{
+    @include cards($roca);
+}
+
+.carta-143{
+    @include cards($normal);
+}
+
+.carta-144{
+    @include cards($hielo);
+}
+
+.carta-145{
+    @include cards($electrico);
+}
+
+.carta-146{
+    @include cards($fuego);
+}
+
+.carta-147{
+    @include cards($dragon);
+}
+
+.carta-148{
+    @include cards($dragon);
+}
+
+.carta-149{
+    @include cards($dragon);
+}
+
+.carta-150{
+    @include cards($psiquico);
+}
+
+.carta-151{
+    @include cards($psiquico);
+}
+
+.carta-1:hover,
+.carta-2:hover,
+.carta-3:hover,
+.carta-4:hover,
+.carta-5:hover,
+.carta-6:hover,
+.carta-7:hover,
+.carta-8:hover,
+.carta-9:hover,
+.carta-10:hover,
+.carta-11:hover,
+.carta-12:hover,
+.carta-13:hover,
+.carta-14:hover,
+.carta-15:hover,
+.carta-16:hover,
+.carta-17:hover,
+.carta-18:hover,
+.carta-19:hover,
+.carta-20:hover,
+.carta-21:hover,
+.carta-22:hover,
+.carta-23:hover,
+.carta-24:hover,
+.carta-25:hover,
+.carta-26:hover,
+.carta-27:hover,
+.carta-28:hover,
+.carta-29:hover,
+.carta-30:hover,
+.carta-31:hover,
+.carta-32:hover,
+.carta-33:hover,
+.carta-34:hover,
+.carta-35:hover,
+.carta-36:hover,
+.carta-37:hover,
+.carta-38:hover,
+.carta-39:hover,
+.carta-40:hover,
+.carta-41:hover,
+.carta-42:hover,
+.carta-43:hover,
+.carta-44:hover,
+.carta-45:hover,
+.carta-46:hover,
+.carta-47:hover,
+.carta-48:hover,
+.carta-49:hover,
+.carta-50:hover,
+.carta-51:hover,
+.carta-52:hover,
+.carta-53:hover,
+.carta-54:hover,
+.carta-55:hover,
+.carta-56:hover,
+.carta-57:hover,
+.carta-58:hover,
+.carta-59:hover,
+.carta-60:hover,
+.carta-61:hover,
+.carta-62:hover,
+.carta-63:hover,
+.carta-64:hover,
+.carta-65:hover,
+.carta-66:hover,
+.carta-67:hover,
+.carta-68:hover,
+.carta-69:hover,
+.carta-70:hover,
+.carta-71:hover,
+.carta-72:hover,
+.carta-73:hover,
+.carta-74:hover,
+.carta-75:hover,
+.carta-76:hover,
+.carta-77:hover,
+.carta-78:hover,
+.carta-79:hover,
+.carta-80:hover,
+.carta-81:hover,
+.carta-82:hover,
+.carta-83:hover,
+.carta-84:hover,
+.carta-85:hover,
+.carta-86:hover,
+.carta-87:hover,
+.carta-88:hover,
+.carta-89:hover,
+.carta-90:hover,
+.carta-91:hover,
+.carta-92:hover,
+.carta-93:hover,
+.carta-94:hover,
+.carta-95:hover,
+.carta-96:hover,
+.carta-97:hover,
+.carta-98:hover,
+.carta-99:hover,
+.carta-100:hover,
+.carta-101:hover,
+.carta-102:hover,
+.carta-103:hover,
+.carta-104:hover,
+.carta-105:hover,
+.carta-106:hover,
+.carta-107:hover,
+.carta-108:hover,
+.carta-109:hover,
+.carta-110:hover,
+.carta-111:hover,
+.carta-112:hover,
+.carta-113:hover,
+.carta-114:hover,
+.carta-115:hover,
+.carta-116:hover,
+.carta-117:hover,
+.carta-118:hover,
+.carta-119:hover,
+.carta-120:hover,
+.carta-121:hover,
+.carta-122:hover,
+.carta-123:hover,
+.carta-124:hover,
+.carta-125:hover,
+.carta-126:hover,
+.carta-127:hover,
+.carta-128:hover,
+.carta-129:hover,
+.carta-130:hover,
+.carta-131:hover,
+.carta-132:hover,
+.carta-133:hover,
+.carta-134:hover,
+.carta-135:hover,
+.carta-136:hover,
+.carta-137:hover,
+.carta-138:hover,
+.carta-139:hover,
+.carta-140:hover,
+.carta-141:hover,
+.carta-142:hover,
+.carta-143:hover,
+.carta-144:hover,
+.carta-145:hover,
+.carta-146:hover,
+.carta-147:hover,
+.carta-148:hover,
+.carta-149:hover,
+.carta-150:hover,
+.carta-151:hover{
+    transform: translateY(-10px);
+}
