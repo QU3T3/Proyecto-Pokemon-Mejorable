@@ -785,3 +785,39 @@
 .carta-151:hover{
     transform: translateY(-10px);
 }
+
+/*Tablet*/
+
+@media screen and (max-width : 768px){
+    .contenedor-cartas{
+        display: flex;
+        flex-direction: row;
+        gap: 10px;
+    }
+
+    .pokemon{
+        background-color: rgba(255, 255, 255, 0.6);
+        border-radius: 50%;
+        width: 220px;
+        height: 220px;
+        text-align: center;
+        & img{
+            max-width: 80%;
+            margin-top: 20px;
+        }
+    }
+}
+
+@media screen and (max-width : 320px){
+    .pokemon{
+        background-color: rgba(255, 255, 255, 0.6);
+        border-radius: 50%;
+        width: 180px;
+        height: 180px;
+        text-align: center;
+        & img{
+            max-width: 80%;
+            margin-top: 20px;
+        }
+    }
+}

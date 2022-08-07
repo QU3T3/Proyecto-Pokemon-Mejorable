@@ -1,69 +1,150 @@
 .iniciar-sesion{
-    height: 640px;
-    width: 460px;
-    background: $alternative;
+    height: 550px;
+    width: 950px;
+    margin: 6em auto;
     display: flex;
-    padding: 100px;
-    justify-content: space-around;
-    flex-direction: column;
-    padding: 40px;
-    margin: 50px auto;
-    border-radius: 20px;
-    box-shadow: 0 0 10px;
-    & h2{
-        font-family: 'Montserrat';
-        font-weight: 800;
+    justify-content: space-between;
+    border-radius: 10px;
+    overflow: hidden;
+    &-container{
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
         text-align: center;
-        font-size: 45px;
-        color: $primary;
+        padding-top: 0.5rem;
+        background-color: $alternative;
+        gap: 5rem;
+        & h2{
+            font-family: 'Montserrat';
+            font-weight: 900;
+            color: $primary;
+            font-size: 4rem;
+            margin-top: 1em;
+        }
     }
-    & h4{
+}
+
+.imagen-container{
+    width: 50%;
+}
+
+.inputs-container{
+    height: 55%;
+    width: 85%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    gap: 3em;
+    & p{
+        margin: 0;
         font-family: 'Montserrat';
         font-weight: 600;
-        font-size: 25px;
         color: $primary;
+        font-size: 1.5rem;
     }
-    & p{
-        font-family: 'Montserrat';
-        font-weight: 200;
-        text-align: center;
-        font-size: 15px;
-        color: $primary;
+}
+
+.input, .iniciar{
+    width: 90%;
+    height: 3.125rem;
+    font-size: 1.2em;
+}
+
+.input{
+    padding-left: 20px;
+    border: none;
+    border-radius: 5px;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    letter-spacing: 1px;
+    box-sizing: border-box;
+    height: 40px;
+
+}
+
+.iniciar{
+    width: 80%;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: $secondary;
+    background-color: $primary;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    font-family: 'Montserrat';
+    font-weight: 900;
+    font-size: 2rem;
+    height: 50px;
+}
+
+.span{
+    color: $secondary;
+    font-family: 'Montserrat';
+    font-weight: 900;
+    cursor: pointer;
+    font-size: 1.5rem;
+}
+
+/*Mobile*/
+
+@media screen and (max-width : 480px){
+    .imagen-container{
+        display: none;
     }
-    & .control{
-        height: 40px;
-        width: 100%;
-        border-radius: 10px;
-        border-style: none;
-        background-color: $secondary;
-        color: $primary;
-        font-size: 20px;
-        padding: 0 10px;
-        outline: none;
+
+    .iniciar-sesion{
+        width: 80%;
+        margin-top: 3rem;
+        &-container{
+            width: 100%;
+        }
     }
-    & .boton{
-        width: 100%;
-        height: 50px;
-        color: $secondary;
-        background-color: $primary;
-        border-style: none;
-        border-radius: 5px;
-        font-size: 30px;
-        font-family: 'Montserrat';
-        font-weight: 800;
-        margin-bottom: 35px;
+}
+
+@media screen and (max-width : 375px){
+    .iniciar-sesion{
+        width: 80%;
+        margin-top: 3rem;
+        &-container{
+            width: 100%;
+        }
     }
-    & span{
-        font-size: 20px;
-        color: $primary;
-        font-family: 'Montserrat';
-        font-weight: 300;
-        text-align: center;
+}
+
+@media screen and (max-width : 320px){
+    .iniciar-sesion{
+        width: 90%;
+        margin-top: 3rem;
+        &-container{
+            width: 100%;
+        }
     }
-    & a{
-        font-family: 'Montserrat';
-        font-weight: 800;
-        color: $secondary;
-        text-decoration: none;
+}
+
+/*Tablet*/
+
+@media screen and (max-width : 768px){
+    .imagen-container{
+        display: none;
+    }
+
+    .iniciar-sesion{
+        width: 70%;
+        margin-top: 3rem;
+        &-container{
+            width: 100%;
+        }
+    }
+}
+
+@media screen and (max-width : 970px){
+    .iniciar-sesion{
+        width: 90%;
+        margin-top: 3rem;
+        &-container{
+            width: 100%;
+        }
     }
 }
