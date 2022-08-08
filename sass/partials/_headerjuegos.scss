@@ -21,10 +21,11 @@
 
 .header-titular-juegos{
     height: 80px;
+    padding: 0 10px;
     background-image: url(../imagenes/juegos/wallpaperjuegosheader.png);
     color: $primary;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     gap: 20em;
     & img{
@@ -33,30 +34,93 @@
     }
 }
 
-.header-links a{
+.menu-juegos a{
     color: map-get($map: $header-color, $key: 'primary' );
     text-transform: uppercase;
     padding: 0 40px;
     font-size: 15px;
     font-family: 'Montserrat';
     font-weight: 600;
+    transition: 0.4s;
 }
 
-.header-links a:hover{
-    border-bottom: solid $primary;
-    border-width: 2px;
-}
-
-.header-links-juegos a{
-    color: map-get($map: $header-color, $key: 'primary' );
-    text-transform: uppercase;
-    padding: 0 40px;
+.menu-juegos input{
+    border-radius: 2px;
+    height: 30px;
+    width: 220px;
+    padding: 10px;
     font-size: 15px;
     font-family: 'Montserrat';
-    font-weight: 600;
+    font-weight: 500;
+    border-style: none;
+    transform: translateX(-100px);
+    color: map-get($map: $header-color, $key: 'secondary' );
+    outline: none;
 }
 
-.header-links-juegos a:hover{
-    border-bottom: solid $primary;
-    border-width: 2px;
+.menu-mostrar-juegos,
+.menu-esconder-juegos{
+    font-size: 40px;
+    cursor: pointer;
+    display: none;
+    transition: 0.4s;
+}
+
+.menu-mostrar-juegos{
+    order: 1;
+}
+
+.menu-juegos a:hover,
+.menu-mostrar-juegos:hover,
+.menu-esconder-juegos:hover{
+    color: map-get($map: $header-color, $key: 'secondary' );
+    text-decoration: none;
+}
+
+#check{
+    display: none;
+}
+
+/*Mobile*/
+
+@media screen and (min-width : 320px) and (max-width : 768px){
+    .menu-mostrar-juegos,
+    .menu-esconder-juegos{
+        display: block;
+    }
+
+    .menu-juegos{
+        position: fixed;
+        align-content: center;
+        width: 100%;
+        height: 100vh;
+        background: $secondary;
+        right: -100%;
+        top: 0;
+        text-align: center;
+        padding: 100px 0px;
+        z-index: 100;
+        transition: 0.8s;
+    }
+
+    .menu-juegos input{
+        position: absolute;
+        width: auto;
+    }
+
+    .menu-juegos a{
+        display: block;
+        padding: 20px;
+        margin-top: 30px;
+    }
+
+    .menu-esconder-juegos{
+        position: absolute;
+        top: 40px;
+        right: 40px;
+    }
+
+    #check:checked ~ .menu-juegos{
+        right: 0;
+    }
 }

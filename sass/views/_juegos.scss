@@ -229,3 +229,165 @@
     font-size: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);;
 }
+
+/*Mobile*/
+
+@media screen and (max-width : 480px) and (min-width : 425px){
+    .container-juegos{
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        margin: 2em;
+        gap: 8em;
+        & img:hover{
+            transform: none;
+        }
+        &-texto span{
+            font-size: 10px;
+        }
+        &-texto a{
+            font-size: 8px;
+            width: 100px;
+            height: 30px;
+        }
+        &-texto p{
+            font-size: 5px;
+            text-align: center;
+        }
+    }
+    
+    .container-region{
+        background-image: url(../imagenes/juegos/paldeablur.png);
+        background-size: cover;
+        width: 100%;
+        height: 600px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        border-top: solid $borde;
+        border-bottom: solid $borde;
+        border-width: 5px;
+        gap: 4em;
+        box-shadow: inset 0 0 15px 5px rgba(0, 0, 0, 0.5);
+        & img{
+            width: 315px;
+            height: 222.5px;
+            border: solid $primary;
+            border-width: 5px;
+            box-shadow: 0 10px 10px rgba(0, 0, 0, 0.5);
+        }
+        &-info{
+            background-color: rgba(255, 255, 255, .75);
+            width: 315px;
+            height: 222.5px;
+            font-family: 'Montserrat';
+            font-weight: 700;
+            color: $primary;
+            font-size: 8px;
+            text-align: center;
+            color: $secondary;
+            border: solid $borde;
+            border-width: 5px;
+            box-shadow: 0 10px 10px rgba(0, 0, 0, 0.5);
+            & p{
+                font-size: 9px;
+            }
+            & span{
+                font-size: 9px;
+            }
+        }
+    }
+
+    .container-fecha{
+        font-size: 20px;
+    }
+
+    .container-info{
+        width: 95%;
+        height: 675px;
+        display: flex;
+        flex-direction: column;
+        &-parrafo{
+            font-size: 20px;
+            text-align: center;
+            margin-top: 0;
+        }
+        & iframe{
+            width: 285px;
+            height: auto;
+            border-radius: 20px;
+            border: none;
+            padding: 1em;
+        }
+    }
+
+    .container-aside{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .container-pokemon{
+        display: flex;
+        flex-direction: row;
+        gap: 6em;
+        margin-bottom: 0;
+        align-items: flex-start;
+        &-inicial{
+            display: flex;
+            flex-direction: column;
+            margin-top: 0;
+            & h3{
+                margin: 0;
+            }
+        }
+        &-inicial:hover{
+            transform: none;
+        }
+    }
+
+    .container-profes{
+        width: 95%;
+        height: 1200px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        &-img{
+            display: flex;
+            justify-content: center;
+            width: 55%;
+        }
+        &-info{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 95%;
+            height: 700px;
+            margin: auto;
+            margin-top: 5em;
+            padding: 5em;
+        }
+        &-info p{
+            font-size: 20px;
+            font-family:'Montserrat';
+            font-weight: 600;
+            color: $secondary;
+            text-align: center;
+            justify-self: baseline;
+            margin-top: 3.5em;
+        }
+    }
+    
+    .container-profes-boton{
+        margin-top: 5em;
+        justify-content: center;
+        border: solid $borde;
+        border-radius: 20px;
+        width: 300px;
+        height: 100px;
+        font-family: 'Montserrat';
+        font-weight: 700;
+        font-size: 20px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);;
+    }
+}
