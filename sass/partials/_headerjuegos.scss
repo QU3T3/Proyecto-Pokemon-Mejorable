@@ -22,7 +22,7 @@
 .header-titular-juegos{
     height: 80px;
     padding: 0 10px;
-    background-image: url(../imagenes/juegos/wallpaperjuegosheader.png);
+    background-image: url("/assets/imagenes/juegos/wallpaperjuegosheader.png");
     color: $primary;
     display: flex;
     justify-content: space-between;
@@ -83,7 +83,49 @@
 
 /*Mobile*/
 
-@media screen and (min-width : 320px) and (max-width : 768px){
+@media screen and (max-width : 480px){
+    .menu-mostrar-juegos,
+    .menu-esconder-juegos{
+        display: block;
+    }
+
+    .menu-juegos{
+        position: fixed;
+        align-content: center;
+        width: 100%;
+        height: 100vh;
+        background: $secondary;
+        right: -100%;
+        top: 0;
+        text-align: center;
+        padding: 100px 0px;
+        z-index: 100;
+        transition: 0.8s;
+    }
+
+    .menu-juegos input{
+        position: absolute;
+        width: auto;
+    }
+
+    .menu-juegos a{
+        display: block;
+        padding: 20px;
+        margin-top: 30px;
+    }
+
+    .menu-esconder-juegos{
+        position: absolute;
+        top: 40px;
+        right: 40px;
+    }
+
+    #check:checked ~ .menu-juegos{
+        right: 0;
+    }
+}
+
+@media screen and (max-width : 425px){
     .menu-mostrar-juegos,
     .menu-esconder-juegos{
         display: block;

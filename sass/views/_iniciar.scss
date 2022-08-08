@@ -95,25 +95,17 @@
     }
 
     .iniciar-sesion{
-        width: 80%;
+        width: 90%;
+        height: 800px;
         margin-top: 3rem;
         &-container{
             width: 100%;
+            gap: 10em;
         }
     }
 }
 
 @media screen and (max-width : 375px){
-    .iniciar-sesion{
-        width: 80%;
-        margin-top: 3rem;
-        &-container{
-            width: 100%;
-        }
-    }
-}
-
-@media screen and (max-width : 320px){
     .iniciar-sesion{
         width: 90%;
         margin-top: 3rem;
@@ -123,23 +115,7 @@
     }
 }
 
-/*Tablet*/
-
-@media screen and (max-width : 768px){
-    .imagen-container{
-        display: none;
-    }
-
-    .iniciar-sesion{
-        width: 70%;
-        margin-top: 3rem;
-        &-container{
-            width: 100%;
-        }
-    }
-}
-
-@media screen and (max-width : 970px){
+@media screen and (max-width : 320px){
     .iniciar-sesion{
         width: 90%;
         margin-top: 3rem;
