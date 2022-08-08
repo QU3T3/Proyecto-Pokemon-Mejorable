@@ -11,12 +11,12 @@ html {
   font-size: 62.5%; }
 
 body {
-  background-image: url("../imagenes/background.jpg");
+  background-image: url(../imagenes/background.jpg);
   background-size: cover;
   background-repeat: no-repeat; }
 
 .body-juegos {
-  background-image: url("../imagenes/juegos/wallpaperjuegos.png");
+  background-image: url(../imagenes/juegos/wallpaperjuegos.png);
   background-size: cover; }
 
 img {
@@ -150,7 +150,7 @@ ul {
 .header-titular-juegos {
   height: 80px;
   padding: 0 10px;
-  background-image: url("/assets/imagenes/juegos/wallpaperjuegosheader.png");
+  background-image: url("../imagenes/juegos/wallpaperjuegos.png");
   color: #f2f2f2;
   display: flex;
   justify-content: space-between;
@@ -2723,7 +2723,7 @@ ul {
     transform: translateY(5px); }
 
 .container-region {
-  background-image: url("/assets/imagenes/juegos/wallpaperjuegos.png");
+  background-image: url("../imagenes/background.jpg");
   background-size: cover;
   width: 100%;
   height: 800px;
