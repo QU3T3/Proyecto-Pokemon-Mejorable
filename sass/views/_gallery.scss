@@ -154,6 +154,50 @@
 }
 }
 
+/*Laptop*/
+
+@media screen and (max-width : 1440px){
+    .galeria{
+        grid-template-columns: repeat(6, 1fr);
+        grid-template-rows: repeat(3, 1fr);
+        &-item-1{
+            grid-column-start: 1;
+            grid-column-end: 5;
+            grid-row-start: 1;
+            grid-row-end: 3;
+            position: relative;
+        }
+        &-item-2{
+            grid-column-start: 1;
+            grid-column-end: 4;
+            grid-row-start: 3;
+            grid-row-end: 4;
+            position: relative;
+        }
+        &-item-3{
+            grid-column-start: 4;
+            grid-column-end: 7;
+            grid-row-start: 3;
+            grid-row-end: 4;
+            position: relative;
+        }
+        &-item-4{
+            grid-column-start: 5;
+            grid-column-end: 7;
+            grid-row-start: 1;
+            grid-row-end: 2;
+            position: relative;
+        }
+        &-item-5{
+            grid-column-start: 5;
+            grid-column-end: 7;
+            grid-row-start: 2;
+            grid-row-end: 3;
+            position: relative;
+        }
+    }
+}
+
 /*Tablet*/
 
 @media screen and (max-width : 768px){

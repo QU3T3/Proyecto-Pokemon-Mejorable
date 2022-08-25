@@ -79,6 +79,17 @@
     display: none;
 }
 
+/*Laptop*/
+
+@media screen and (max-width : 1024px){
+    .menu input{
+        width: 200px;
+    }
+    .menu a{
+        padding: 0 15px;
+    }
+}
+
 /*Mobile*/
 
 @media screen and (min-width : 320px) and (max-width : 768px){
@@ -122,3 +133,4 @@
         right: 0;
     }
 }
+

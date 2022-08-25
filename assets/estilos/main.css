@@ -98,6 +98,13 @@ ul {
 #check {
   display: none; }
 
+/*Laptop*/
+@media screen and (max-width: 1024px) {
+  .menu input {
+    width: 200px; }
+  .menu a {
+    padding: 0 15px; } }
+
 /*Mobile*/
 @media screen and (min-width: 320px) and (max-width: 768px) {
   .menu-mostrar,
@@ -499,6 +506,42 @@ ul {
   .galeria-item-4:hover,
   .galeria-item-5:hover {
     transform: none; } }
+
+/*Laptop*/
+@media screen and (max-width: 1440px) {
+  .galeria {
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(3, 1fr); }
+    .galeria-item-1 {
+      grid-column-start: 1;
+      grid-column-end: 5;
+      grid-row-start: 1;
+      grid-row-end: 3;
+      position: relative; }
+    .galeria-item-2 {
+      grid-column-start: 1;
+      grid-column-end: 4;
+      grid-row-start: 3;
+      grid-row-end: 4;
+      position: relative; }
+    .galeria-item-3 {
+      grid-column-start: 4;
+      grid-column-end: 7;
+      grid-row-start: 3;
+      grid-row-end: 4;
+      position: relative; }
+    .galeria-item-4 {
+      grid-column-start: 5;
+      grid-column-end: 7;
+      grid-row-start: 1;
+      grid-row-end: 2;
+      position: relative; }
+    .galeria-item-5 {
+      grid-column-start: 5;
+      grid-column-end: 7;
+      grid-row-start: 2;
+      grid-row-end: 3;
+      position: relative; } }
 
 /*Tablet*/
 @media screen and (max-width: 768px) {
